@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const continentSchema = new Schema({
-  name: String,
+  name: { en: String, es: String, fr: String, de: String, pt: String },
   slug: String,
   geopoint: {
     type: {

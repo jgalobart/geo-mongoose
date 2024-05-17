@@ -1,0 +1,100 @@
+[
+  {
+    "name": {
+      "en": "Africa",
+      "es": "África",
+      "fr": "Afrique",
+      "de": "Afrika",
+      "pt": "África"
+    },
+    "slug": "africa",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [1.6508, 17.3]
+    }
+  },
+  {
+    "name": {
+      "en": "Antarctica",
+      "es": "Antártida",
+      "fr": "Antarctique",
+      "de": "Antarktis",
+      "pt": "Antártica"
+    },
+    "slug": "antarctica",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [-82.8628, 135]
+    }
+  },
+  {
+    "name": {
+      "en": "Asia",
+      "es": "Asia",
+      "fr": "Asie",
+      "de": "Asien",
+      "pt": "Ásia"
+    },
+    "slug": "asia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [34.0479, 100.6197]
+    }
+  },
+  {
+    "name": {
+      "en": "Europe",
+      "es": "Europa",
+      "fr": "Europe",
+      "de": "Europa",
+      "pt": "Europa"
+    },
+    "slug": "europe",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [54.526, 15.2551]
+    }
+  },
+  {
+    "name": {
+      "en": "North America",
+      "es": "América del Norte",
+      "fr": "Amérique du Nord",
+      "de": "Nordamerika",
+      "pt": "América do Norte"
+    },
+    "slug": "north-america",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [54.526, -105.2551]
+    }
+  },
+  {
+    "name": {
+      "en": "South America",
+      "es": "América del Sur",
+      "fr": "Amérique du Sud",
+      "de": "Südamerika",
+      "pt": "América do Sul"
+    },
+    "slug": "south-america",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [-14.235, -51.9253]
+    }
+  },
+  {
+    "name": {
+      "en": "Australia",
+      "es": "Australia",
+      "fr": "Australie",
+      "de": "Australien",
+      "pt": "Austrália"
+    },
+    "slug": "australia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [-25.2744, 133.7751]
+    }
+  }
+]

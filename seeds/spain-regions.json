@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Andalucía",
+    "slug": "andalucia",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.3833, -5.9833]
+    }
+  },
+  {
+    "name": "Aragón",
+    "slug": "aragon",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.65, -0.8833]
+    }
+  },
+  {
+    "name": "Asturias",
+    "slug": "asturias",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.3619, -5.8494]
+    }
+  },
+  {
+    "name": "Baleares",
+    "slug": "baleares",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.5696, 2.6502]
+    }
+  },
+  {
+    "name": "Canarias",
+    "slug": "canarias",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [28.1, -15.4134]
+    }
+  },
+  {
+    "name": "Cantabria",
+    "slug": "cantabria",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.1828, -3.9878]
+    }
+  },
+  {
+    "name": "Castilla-La Mancha",
+    "slug": "castilla-la-mancha",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.5, -3.0]
+    }
+  },
+  {
+    "name": "Castilla y León",
+    "slug": "castilla-y-leon",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.65, -4.7167]
+    }
+  },
+  {
+    "name": "Cataluña",
+    "slug": "cataluna",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.3833, 2.1833]
+    }
+  },
+  {
+    "name": "Extremadura",
+    "slug": "extremadura",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.2, -6.4]
+    }
+  },
+  {
+    "name": "Galicia",
+    "slug": "galicia",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.5751, -8.1339]
+    }
+  },
+  {
+    "name": "Madrid",
+    "slug": "madrid",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.4167, -3.7033]
+    }
+  },
+  {
+    "name": "Murcia",
+    "slug": "murcia",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.9833, -1.1167]
+    }
+  },
+  {
+    "name": "Navarra",
+    "slug": "navarra",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.8167, -1.65]
+    }
+  },
+  {
+    "name": "País Vasco",
+    "slug": "pais-vasco",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.0, -2.6167]
+    }
+  },
+  {
+    "name": "La Rioja",
+    "slug": "la-rioja",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.2871, -2.5396]
+    }
+  },
+  {
+    "name": "Ceuta",
+    "slug": "ceuta",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [35.8894, -5.3198]
+    }
+  },
+  {
+    "name": "Melilla",
+    "slug": "melilla",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [35.2923, -2.9381]
+    }
+  },
+  {
+    "name": "Comunidad Valenciana",
+    "slug": "comunidad-valenciana",
+    "country": "Spain",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.4702, -0.3768]
+    }
+  },
+
+  {
+    "name": "Álava",
+    "slug": "alava",
+    "country": "Spain",
+    "parent": "País Vasco",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.8435, -2.6716]
+    }
+  },
+  {
+    "name": "Albacete",
+    "slug": "albacete",
+    "country": "Spain",
+    "parent": "Castilla-La Mancha",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [38.9943, -1.8564]
+    }
+  },
+  {
+    "name": "Alicante",
+    "slug": "alicante",
+    "country": "Spain",
+    "parent": "Comunidad Valenciana",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [38.346, -0.4907]
+    }
+  },
+  {
+    "name": "Almería",
+    "slug": "almeria",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [36.8402, -2.4675]
+    }
+  },
+  {
+    "name": "Asturias",
+    "slug": "asturias",
+    "country": "Spain",
+    "parent": "Asturias",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.3619, -5.8494]
+    }
+  },
+  {
+    "name": "Ávila",
+    "slug": "avila",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.6565, -4.6818]
+    }
+  },
+  {
+    "name": "Badajoz",
+    "slug": "badajoz",
+    "country": "Spain",
+    "parent": "Extremadura",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [38.8786, -6.9701]
+    }
+  },
+  {
+    "name": "Baleares",
+    "slug": "baleares",
+    "country": "Spain",
+    "parent": "Baleares",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.5696, 2.6502]
+    }
+  },
+  {
+    "name": "Barcelona",
+    "slug": "barcelona",
+    "country": "Spain",
+    "parent": "Cataluña",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.3851, 2.1734]
+    }
+  },
+  {
+    "name": "Burgos",
+    "slug": "burgos",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.3439, -3.6969]
+    }
+  },
+  {
+    "name": "Cáceres",
+    "slug": "caceres",
+    "country": "Spain",
+    "parent": "Extremadura",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.4765, -6.3722]
+    }
+  },
+  {
+    "name": "Cádiz",
+    "slug": "cadiz",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [36.5164, -6.2994]
+    }
+  },
+  {
+    "name": "Cantabria",
+    "slug": "cantabria",
+    "country": "Spain",
+    "parent": "Cantabria",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.1828, -3.9878]
+    }
+  },
+  {
+    "name": "Castellón",
+    "slug": "castellon",
+    "country": "Spain",
+    "parent": "Comunidad Valenciana",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.9864, -0.0513]
+    }
+  },
+  {
+    "name": "Ciudad Real",
+    "slug": "ciudad-real",
+    "country": "Spain",
+    "parent": "Castilla-La Mancha",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [38.9848, -3.9273]
+    }
+  },
+  {
+    "name": "Córdoba",
+    "slug": "cordoba",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.8882, -4.7794]
+    }
+  },
+  {
+    "name": "Cuenca",
+    "slug": "cuenca",
+    "country": "Spain",
+    "parent": "Castilla-La Mancha",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.0704, -2.1374]
+    }
+  },
+  {
+    "name": "Girona",
+    "slug": "girona",
+    "country": "Spain",
+    "parent": "Cataluña",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.9831, 2.8249]
+    }
+  },
+  {
+    "name": "Granada",
+    "slug": "granada",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.1882, -3.6067]
+    }
+  },
+  {
+    "name": "Guadalajara",
+    "slug": "guadalajara",
+    "country": "Spain",
+    "parent": "Castilla-La Mancha",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.6322, -3.1608]
+    }
+  },
+  {
+    "name": "Guipúzcoa",
+    "slug": "guipuzcoa",
+    "country": "Spain",
+    "parent": "País Vasco",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.3128, -1.9913]
+    }
+  },
+  {
+    "name": "Huelva",
+    "slug": "huelva",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.2614, -6.9447]
+    }
+  },
+  {
+    "name": "Huesca",
+    "slug": "huesca",
+    "country": "Spain",
+    "parent": "Aragón",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.1401, -0.4089]
+    }
+  },
+  {
+    "name": "Jaén",
+    "slug": "jaen",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.7796, -3.7849]
+    }
+  },
+  {
+    "name": "La Coruña",
+    "slug": "la-coruna",
+    "country": "Spain",
+    "parent": "Galicia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.3623, -8.4115]
+    }
+  },
+  {
+    "name": "La Rioja",
+    "slug": "la-rioja",
+    "country": "Spain",
+    "parent": "La Rioja",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.2871, -2.5396]
+    }
+  },
+  {
+    "name": "Las Palmas",
+    "slug": "las-palmas",
+    "country": "Spain",
+    "parent": "Canarias",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [28.1235, -15.4363]
+    }
+  },
+  {
+    "name": "León",
+    "slug": "leon",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.5987, -5.5671]
+    }
+  },
+  {
+    "name": "Lleida",
+    "slug": "lleida",
+    "country": "Spain",
+    "parent": "Cataluña",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.6145, 0.62]
+    }
+  },
+  {
+    "name": "Lugo",
+    "slug": "lugo",
+    "country": "Spain",
+    "parent": "Galicia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.0121, -7.5558]
+    }
+  },
+  {
+    "name": "Madrid",
+    "slug": "madrid",
+    "country": "Spain",
+    "parent": "Madrid",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.4168, -3.7038]
+    }
+  },
+  {
+    "name": "Málaga",
+    "slug": "malaga",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [36.7213, -4.4214]
+    }
+  },
+  {
+    "name": "Murcia",
+    "slug": "murcia",
+    "country": "Spain",
+    "parent": "Murcia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.9834, -1.1299]
+    }
+  },
+  {
+    "name": "Navarra",
+    "slug": "navarra",
+    "country": "Spain",
+    "parent": "Navarra",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.8125, -1.6458]
+    }
+  },
+  {
+    "name": "Ourense",
+    "slug": "ourense",
+    "country": "Spain",
+    "parent": "Galicia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.335, -7.8639]
+    }
+  },
+  {
+    "name": "Palencia",
+    "slug": "palencia",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.0095, -4.5283]
+    }
+  },
+  {
+    "name": "Pontevedra",
+    "slug": "pontevedra",
+    "country": "Spain",
+    "parent": "Galicia",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [42.4299, -8.6443]
+    }
+  },
+  {
+    "name": "Salamanca",
+    "slug": "salamanca",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.9701, -5.6635]
+    }
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "slug": "santa-cruz-de-tenerife",
+    "country": "Spain",
+    "parent": "Canarias",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [28.4636, -16.2518]
+    }
+  },
+  {
+    "name": "Segovia",
+    "slug": "segovia",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.9429, -4.1088]
+    }
+  },
+  {
+    "name": "Sevilla",
+    "slug": "sevilla",
+    "country": "Spain",
+    "parent": "Andalucía",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [37.3886, -5.9823]
+    }
+  },
+  {
+    "name": "Soria",
+    "slug": "soria",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.764, -2.4688]
+    }
+  },
+  {
+    "name": "Tarragona",
+    "slug": "tarragona",
+    "country": "Spain",
+    "parent": "Cataluña",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.1189, 1.2445]
+    }
+  },
+  {
+    "name": "Teruel",
+    "slug": "teruel",
+    "country": "Spain",
+    "parent": "Aragón",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [40.3456, -1.1065]
+    }
+  },
+  {
+    "name": "Toledo",
+    "slug": "toledo",
+    "country": "Spain",
+    "parent": "Castilla-La Mancha",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.8628, -4.0273]
+    }
+  },
+  {
+    "name": "Valencia",
+    "slug": "valencia",
+    "country": "Spain",
+    "parent": "Comunidad Valenciana",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [39.4699, -0.3763]
+    }
+  },
+  {
+    "name": "Valladolid",
+    "slug": "valladolid",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.6529, -4.7286]
+    }
+  },
+  {
+    "name": "Bizkaia",
+    "slug": "bizkaia",
+    "country": "Spain",
+    "parent": "País Vasco",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [43.2569, -2.9234]
+    }
+  },
+  {
+    "name": "Zamora",
+    "slug": "zamora",
+    "country": "Spain",
+    "parent": "Castilla y León",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.5033, -5.7462]
+    }
+  },
+  {
+    "name": "Zaragoza",
+    "slug": "zaragoza",
+    "country": "Spain",
+    "parent": "Aragón",
+    "geopoint": {
+      "type": "Point",
+      "coordinates": [41.6497, -0.8877]
+    }
+  }
+]

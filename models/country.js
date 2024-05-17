@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 ObjectId = Schema.ObjectId;
 
 const countrySchema = new Schema({
-  name: String,
+  name: { en: String, es: String, fr: String, de: String, pt: String },
   slug: String,
   continent: { type: mongoose.Schema.Types.ObjectId, ref: "Region" },
   geopoint: {
